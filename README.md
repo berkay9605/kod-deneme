@@ -1,1 +1,1 @@
-# kod-deneme
+aklıma gelenleri denediğim yer
